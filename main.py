@@ -96,5 +96,4 @@ def capture_movement():
     cap.release()
     cv2.destroyAllWindows()
 
-# Call the function to capture movement
 capture_movement()
